@@ -12,4 +12,5 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 @miriadlm
 
+![](https://media1.tenor.com/m/qIv20qZkX-UAAAAC/barbie-bibble.gif)
 ![](https://media1.tenor.com/m/uO37-aKreAEAAAAC/kakashi-naruto.gif)
