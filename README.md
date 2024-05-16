@@ -4,6 +4,7 @@ Meu nome é Miriã
 
 Estou estudando na [Alura](https://www.alura.co.br)
 Estou me desenvolvendo na linguagem JavaScript
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos para a escola e para a matéria de robótica
 
 ### Você pode entrar em contato comigo 📫
